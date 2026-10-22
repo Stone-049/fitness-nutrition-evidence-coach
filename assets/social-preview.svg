@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#164e63"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <circle cx="1080" cy="120" r="180" fill="#22d3ee" opacity="0.12"/>
+  <circle cx="1160" cy="520" r="240" fill="#84cc16" opacity="0.10"/>
+  <text x="80" y="135" fill="#67e8f9" font-family="sans-serif" font-size="26" font-weight="700" letter-spacing="4">EVIDENCE-AWARE • SAFETY-FIRST</text>
+  <text x="80" y="235" fill="#f8fafc" font-family="sans-serif" font-size="76" font-weight="800">Fitness Nutrition</text>
+  <text x="80" y="325" fill="#f8fafc" font-family="sans-serif" font-size="76" font-weight="800">Evidence Coach</text>
+  <text x="82" y="400" fill="#cbd5e1" font-family="sans-serif" font-size="30">循证训练 · 运动营养 · 红旗征 · 真实案例 · 可评测</text>
+  <g font-family="sans-serif" font-size="24" fill="#e2e8f0">
+    <rect x="80" y="468" width="245" height="62" rx="31" fill="#ffffff" opacity="0.10"/>
+    <text x="112" y="508">31 papers</text>
+    <rect x="345" y="468" width="290" height="62" rx="31" fill="#ffffff" opacity="0.10"/>
+    <text x="377" y="508">3,854 Community items</text>
+    <rect x="655" y="468" width="260" height="62" rx="31" fill="#ffffff" opacity="0.10"/>
+    <text x="687" y="508">20 case prototypes</text>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+{
+  "adult_verified": true,
+  "consent": true,
+  "purpose": "fitness_analysis",
+  "sexually_explicit": false,
+  "intimate_focus": false,
+  "minor_present": false,
+  "views": [
+    "front",
+    "side",
+    "back"
+  ],
+  "attire": "opaque form-fitting athletic clothing",
+  "identity_minimized": true
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2026-10-20",
+    "type": "strength",
+    "duration_min": 60.0,
+    "rpe": 7.0,
+    "exercises": [
+      {
+        "exercise": "深蹲",
+        "weight": 80.0,
+        "reps": 5.0
+      },
+      {
+        "exercise": "深蹲",
+        "weight": 80.0,
+        "reps": 5.0
+      },
+      {
+        "exercise": "卧推",
+        "weight": 60.0,
+        "reps": 8.0
+      }
+    ],
+    "volume_load": 1280.0,
+    "session_load": 420.0
+  },
+  {
+    "date": "2026-10-22",
+    "type": "strength",
+    "duration_min": 55.0,
+    "rpe": 8.0,
+    "exercises": [
+      {
+        "exercise": "硬拉",
+        "weight": 100.0,
+        "reps": 5.0
+      },
+      {
+        "exercise": "划船",
+        "weight": 50.0,
+        "reps": 10.0
+      }
+    ],
+    "volume_load": 1000.0,
+    "session_load": 440.0
+  }
+]

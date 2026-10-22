@@ -1,0 +1,46 @@
+{
+  "query": "TITLE:\"resistance training\" AND TITLE:\"older adults\" AND (PUB_TYPE:\"Systematic Review\" OR PUB_TYPE:\"Meta-Analysis\")",
+  "count": 3,
+  "results": [
+    {
+      "title": "Dose-response relationship of resistance training in older adults: a meta-analysis.",
+      "authors": "Steib S, Schoene D, Pfeifer K.",
+      "journal": "",
+      "year": "2010",
+      "pmid": "19996996",
+      "doi": "10.1249/mss.0b013e3181c34465",
+      "pub_types": [
+        "Meta-Analysis",
+        "Journal Article"
+      ],
+      "abstract": "<h4>Purpose</h4>The purpose of this study was to determine the dose-response relationship of resistance training (RT) to improve strength and function in older adults.<h4>Methods</h4>A systematic literature search was performed in relevant databases and study reference lists to identify randomized controlled trials. Randomized controlled trials comparing the effects of different doses of strength training in older people (65 yr and older) on strength and functional outcomes were eligible. Two independent reviewers decided on study inclusion, extracted data, and assessed methodological quality. Standardized mean difference (SMD) and 95% confidence intervals (CI) were calculated for relevant outcomes and pooled using a random-effects model.<h4>Results</h4>Twenty-nine trials with a total of 1313 subjects (mean age = 65-81 yr) are summarized in this review. Trials comparing different training intensities show strong effects of progressive resistance training (PRT) on maximal strength in a dose-dependent manner, with high-intensity (HI) PRT being more effective compared with moderate (MI)- and low-intensity (LI) PRT (SMD [HI vs LI] = 0.88, 95% CI = 0.21-1.55; SMD [HI vs MI] = 0.62, 95% CI = 0.22-1.03). PRT was also successful for improving functional outcomes, but gains were independent of training intensity. Power training (PT) was more effective for improving muscle power (SMD [PT vs PRT] = 1.66, 95% CI = 0.08-3.24) and functional outcomes than PRT. There was only little information available on training volume and frequency.<h4>Discussion</h4>Higher training intensities are superior to lower intensities for improving maximal strength but not necessarily for functional performance of older adults. PT has shown to be a particularly effective method for enhancing muscle power and functional performance. More research is necessary to identify the effect of different training volumes and frequencies and the dose-response relationship for very old and frail populations."
+    },
+    {
+      "title": "Efficacy of progressive resistance training on balance performance in older adults : a systematic review of randomized controlled trials.",
+      "authors": "Orr R, Raymond J, Fiatarone Singh M.",
+      "journal": "",
+      "year": "2008",
+      "pmid": "18348591",
+      "doi": "10.2165/00007256-200838040-00004",
+      "pub_types": [
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "abstract": "The serious health, social and economic consequences of falls are well documented. Lower extremity muscle weakness and power as well as balance impairment are major independent intrinsic contributors to falls and amenable to intervention. Progressive resistance training (PRT) is widely accepted as an appropriate modality for treating sarcopenia and has been reported to improve balance. However, other studies affirm no significant effect of PRT on balance. To date, there is no clear, definitive statement or synthesis of studies that has examined the effect of PRT on balance. Therefore, our objective was to systematically review the literature to probe the merit of PRT as a single intervention on balance performance in older adults. We conducted a comprehensive search of major electronic databases to October 2006, with citation searches and bibliographic searches of journal articles and literature/systematic reviews. Two independent reviewers screened for eligibility and assessed the quality of the studies using the Physiotherapy Evidence Database scale for validity assessment. Randomized controlled trials of PRT only, with any balance outcome in participants with a mean age of >/=60 years (individual minimum age >50 years) were included. Trials that contained more than one intervention, providing the PRT and control groups matched the inclusion criteria, were also included. Because of the heterogeneity of interventions and balance outcomes, a meta-analysis was not performed. However, corrected effect sizes with confidence intervals were determined for each study outcome. Twenty-nine studies were compatible with the inclusion/exclusion criteria and were eligible for review. Participants (n = 2174) included healthy, community-dwelling, mobility-limited, frail cohorts and those with chronic comorbidities. Balance outcomes conducted were extensive and were broadly categorized by the authors as: static, dynamic, functional and computerized dynamic posturography. Some studies used more than one balance outcome. The number of balance tests in all totalled 68. Fourteen studies (15 tests representing 22% of all balance tests) reported improvements, significantly greater than controls, in balance performance following PRT. Improvements were not linked to a particular type of balance performance. The inconsistent effect of PRT on balance may be explained by heterogeneity of cohort and balance tests, variability in methodology of the balance test and sample size, inadequate dose of PRT and/or compliance to training, or lack of statistical power. Standardization of balance testing methodology and better reporting of procedures may ensure greater comparability of results in future studies. It is also possible that PRT alone is not a robust intervention for balance control. This is the first systematic synthesis of the literature to examine the effectiveness of PRT alone on balance performance in older adults. The limited evidence presented in currently published data has not consistently shown that the use of PRT in isolation improves balance in this population. However, further research should explore optimal resistance training regimens that: focus on the muscles most pertinent to balance control, best target neuromuscular adaptations that protect against postural challenges and elucidate mechanism(s) by which PRT may affect balance control."
+    },
+    {
+      "title": "Creatine supplementation during resistance training in older adults-a meta-analysis.",
+      "authors": "Devries MC, Phillips SM.",
+      "journal": "",
+      "year": "2014",
+      "pmid": "24576864",
+      "doi": "10.1249/mss.0000000000000220",
+      "pub_types": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "abstract": "<h4>Introduction</h4>Age-related sarcopenia and dynapenia have negative effects on strength and the ability to perform activities of daily living. Resistance training (RT) increases muscle mass and strength in older adults and is an established countermeasure for sarcopenia and dynapenia, and creatine may enhance this effect. We aimed to determine whether the addition of Cr to RT increased gains in muscle mass, strength, and function in older adults over RT alone by conducting a systematic review and meta-analysis.<h4>Methods</h4>PubMed and Healthstar databases were searched. Randomized, placebo-controlled trials that involved older adults supplemented with Cr and included RT regimens (>6 wk) were included. Data were analyzed using fixed or random (if data were heterogeneous) effects meta-analysis using RevMan 5.<h4>Results</h4>The meta-analysis comprised 357 older adults (average ± SD Cr: 63.6 ± 5.9 yr, Pl: 64.2 ± 5.4 yr) with 12.6 ± 4.9 wk of RT. Cr + RT increased total body mass (P = 0.004) and fat-free mass (P < 0.0001) with no effect on fat mass as compared with RT alone. Cr + RT increased chest press (P = 0.004) and leg press (P = 0.02) one-repetition maximum to a greater extent than RT alone, with no difference in the effect on knee extension or biceps curl one-repetition maximum, isokinetic or isometric knee extension peak torque. Cr + RT had a greater effect than RT alone on the 30-s chair stand test (P = 0.03).<h4>Conclusion</h4>Retention of muscle mass and strength is integral to healthy aging. The results from this meta-analysis are encouraging in supporting a role for Cr supplementation during RT in healthful aging by enhancing muscle mass gain, strength, and functional performance over RT alone; however, the limited number of studies indicates further work is needed."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "date": "2026-10-15",
+    "type": "strength",
+    "duration_min": 60,
+    "rpe": 7,
+    "exercises": [
+      {
+        "weight": 100,
+        "reps": [
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "weight": 60,
+        "reps": [
+          8,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "type": "strength",
+    "duration_min": 55,
+    "rpe": 8,
+    "exercises": [
+      {
+        "weight": 80,
+        "reps": [
+          8,
+          8,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-10-21",
+    "type": "cardio",
+    "duration_min": 35,
+    "rpe": 5,
+    "exercises": []
+  }
+]

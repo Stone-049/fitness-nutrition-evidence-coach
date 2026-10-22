@@ -1,0 +1,9 @@
+{
+  "sleep_hours": 7.5,
+  "sleep_quality": 4,
+  "soreness": 2,
+  "stress": 2,
+  "energy": 3,
+  "pain": 1,
+  "hrv_deviation_pct": 3
+}

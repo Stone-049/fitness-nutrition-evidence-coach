@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <rect width="1200" height="420" fill="#f8fafc"/>
+  <text x="60" y="70" font-family="sans-serif" font-size="34" font-weight="800" fill="#0f172a">Evidence Coach Workflow</text>
+  <g font-family="sans-serif" font-size="20" text-anchor="middle">
+    <rect x="45" y="150" width="180" height="100" rx="18" fill="#e0f2fe" stroke="#0284c7" stroke-width="2"/>
+    <text x="135" y="195" fill="#0c4a6e" font-weight="700">Intake</text><text x="135" y="222" fill="#0c4a6e">目标 / 限制</text>
+    <rect x="270" y="150" width="180" height="100" rx="18" fill="#ecfccb" stroke="#65a30d" stroke-width="2"/>
+    <text x="360" y="195" fill="#365314" font-weight="700">Triage</text><text x="360" y="222" fill="#365314">红旗征 / 边界</text>
+    <rect x="495" y="150" width="180" height="100" rx="18" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+    <text x="585" y="195" fill="#78350f" font-weight="700">Evidence</text><text x="585" y="222" fill="#78350f">分级 / 引用</text>
+    <rect x="720" y="150" width="180" height="100" rx="18" fill="#fce7f3" stroke="#db2777" stroke-width="2"/>
+    <text x="810" y="195" fill="#831843" font-weight="700">Plan</text><text x="810" y="222" fill="#831843">训练 / 营养</text>
+    <rect x="945" y="150" width="180" height="100" rx="18" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+    <text x="1035" y="195" fill="#4c1d95" font-weight="700">Review</text><text x="1035" y="222" fill="#4c1d95">日志 / 复盘</text>
+  </g>
+  <g stroke="#64748b" stroke-width="4" fill="none" marker-end="url(#arrow)">
+    <line x1="225" y1="200" x2="260" y2="200"/><line x1="450" y1="200" x2="485" y2="200"/><line x1="675" y1="200" x2="710" y2="200"/><line x1="900" y1="200" x2="935" y2="200"/>
+  </g>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#64748b"/></marker></defs>
+  <path d="M1035 260 C1035 340 135 340 135 260" fill="none" stroke="#94a3b8" stroke-width="3" stroke-dasharray="8 8" marker-end="url(#arrow)"/>
+  <text x="585" y="350" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#475569">Decision log → next review → update plan</text>
+</svg>

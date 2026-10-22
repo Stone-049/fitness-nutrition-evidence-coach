@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: Fitness Nutrition Evidence Coach
+message: If you use this project, cite the repository and the original evidence sources listed in the Skill.
+type: software
+authors:
+  - name: Fitness Nutrition Evidence Coach contributors
+version: 0.6.0
+date-released: 2026-10-22
+license: MIT
+repository-code: https://github.com/REPLACE-WITH-YOUR-ORG/fitness-nutrition-evidence-coach
+keywords:
+  - fitness
+  - nutrition
+  - strength-training
+  - evidence-based
+  - agent-skill
+  - codex
+  - claude-code

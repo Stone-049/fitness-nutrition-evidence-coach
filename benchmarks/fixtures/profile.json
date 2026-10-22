@@ -1,0 +1,23 @@
+{
+  "profile": {
+    "age_band": "18-29",
+    "sex": "male",
+    "height_cm": 175,
+    "weight_kg": 70,
+    "training_experience": "中级",
+    "primary_goal": "增肌",
+    "secondary_goals": ["力量"],
+    "equipment": ["哑铃", "杠铃", "深蹲架"],
+    "weekly_time": "4 次，每次 60 分钟",
+    "preferences": ["上肢下肢分化"],
+    "injuries": [],
+    "medical_flags": [],
+    "diet_pattern": "普通饮食",
+    "allergies": [],
+    "supplements": ["肌酸"],
+    "data_sources": ["manual"]
+  },
+  "baselines": {"strength": {"bench_kg": 70}, "cardio": {}, "body_composition": {"bodyfat_pct": 14}, "sleep": {}, "nutrition": {}},
+  "current_plan": {"phase": "积累", "start_date": "2026-10-20", "review_date": "2026-11-17", "sessions_per_week": 4, "notes": "RIR 1-3"},
+  "recent_logs": []
+}

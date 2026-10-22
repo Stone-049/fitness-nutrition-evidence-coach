@@ -1,0 +1,4 @@
+[
+  {"date":"2026-10-20","type":"strength","duration_min":60,"rpe":7,"exercises":[{"exercise":"深蹲","weight":80,"reps":5},{"exercise":"卧推","weight":60,"reps":8}],"volume_load":1280,"session_load":420},
+  {"date":"2026-10-22","type":"strength","duration_min":55,"rpe":8,"exercises":[{"exercise":"硬拉","weight":100,"reps":5},{"exercise":"划船","weight":50,"reps":10}],"volume_load":1000,"session_load":440}
+]
